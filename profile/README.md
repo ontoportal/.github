@@ -1,12 +1,10 @@
-Hi there 👋
+Hi there 👋,
 
-Welcome to OntoPortal Alliance organization 
-
-
+Welcome to the OntoPortal Alliance Github organization.
 
 We are dedicated to promoting semantic and ontology services based on the open, collaboratively developed OntoPortal technology.
 
-If you want to know more about us,see https://ontoportal.org
+If you want to know more about us ,see https://ontoportal.org
 
 If you want to see our documentation, see https://ontoportal.github.io/documentation
 
